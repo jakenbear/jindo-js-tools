@@ -1,19 +1,27 @@
 {
   "name": "jindo-js-tools",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fun utility library of JavaScript tools and algorithms inspired by a Jindo dog",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakenbear/jindo-js-tools.git"
+    "url": "https://github.com/jakenbear/jindo-js-tools.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "javascript",
+    "utilities",
+    "utils",
+    "algorithms",
+    "learning",
+    "jindo",
+    "tools"
+  ],
+  "author": "Jake Reardon",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jakenbear/jindo-js-tools/issues"
   },
